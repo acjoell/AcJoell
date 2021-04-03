@@ -1,7 +1,7 @@
 ### Hi, I´m Joel! 👋
-
-![me](https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%)
 __________________________________________________________________________
+
+#### About me!
 
 ```js
 const AcJoell = {
@@ -10,7 +10,7 @@ const AcJoell = {
     tools = [Notion, MySQL, NetBeans]
  } 
 ```
-
+__________________________________________________________________________
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+![me](https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%)
 
 <!--
 ____________________________________________________________________________
