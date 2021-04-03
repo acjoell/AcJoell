@@ -1,13 +1,12 @@
 ### Hi, I´m Joel! 👋
 
-![me](https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-
+![me](https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%)
 __________________________________________________________________________
 
 ```js
 const AcJoell = {
     technologies = [web, server],
-    code = [HTML, CSS, JS, Java, SQL],
+    code = [HTML, CSS, JS, JAVA, SQL],
     tools = [Notion, MySQL, NetBeans]
  } 
 ```
