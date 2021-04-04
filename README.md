@@ -34,32 +34,24 @@ __________________________________________________________________________
 
 __________________________________________________________________________
 <br>
-<img src="https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%" align="left"/>
-<p align="right"> Me:
-
+<img align="right" src="https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%"/>
+<p align="left"> Me:
 </p>
+<br><br><br><br><br>
+<br><br><br><br><br>
 <!--
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
+-->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AcJoell&show_icons=true&include_all_commits=true&theme=material-palenight" alt="AcJoell's github stats" />
 </a> 
-
 -->
-<br><br><br>
+
 ___________________________________________________________________________
 
 <a href="https://github.com/AcJoell/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
 </a>
-
-
-
-
-
-
-
-
