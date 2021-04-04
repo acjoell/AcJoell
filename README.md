@@ -19,8 +19,7 @@ __________________________________________________________________________
 ```js
 const AcJoell = {
     technologies = [web, server],
-    code = [HTML, CSS, JS, JAVA, SQL],
-    tools = [Notion, MySQL, NetBeans]
+    code = [HTML, CSS, JS, JAVA, SQL]
  } 
 ```
 __________________________________________________________________________
