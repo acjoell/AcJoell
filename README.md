@@ -1,3 +1,7 @@
+<img align="left" src="https://komarev.com/ghpvc/?username=AcJoell&label=Profile%20views&color=0e75b6&style=flat" alt="AcJoell" />
+
+____________________________________________________________________________
+
 ### Hi, I´m Joel!👋 
 ____________________________________________________________________________
 
@@ -33,16 +37,14 @@ __________________________________________________________________________
 
 __________________________________________________________________________
 
-![me](https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
+<img src="https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%" align="left"/>
+<p align="right"> Here are some ideas to get you started: </p>
+    <p align="right">🔭 I’m currently working on ...</p>
+    <p align="right">🌱 I’m currently learning ...</p>
+    <p align="right">👯 I’m looking to collaborate on ...</p>
+    <p align="right">💬 Ask me about ...</p>
+    <p align="right">⚡ Fun fact: ...</p>
+<br>
 <!--
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
