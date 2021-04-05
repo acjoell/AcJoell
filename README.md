@@ -26,8 +26,8 @@ __________________________________________________________________________
 <a href="https://github.com/AcJoell/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
 </a>
-
-<p align="left">You can find me  🌍</p>
+<br><br>
+<p>You can find me  🌍</p>
 
 <a href="https://github.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="acjoell" height="30" width="40" /></a>
 <a href="https://instagram.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acjoell" height="30" width="40" /></a>
