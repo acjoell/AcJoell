@@ -23,13 +23,15 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 <br>
-<a href="https://github.com/AcJoell/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
-</a>
-<br><br>
 <p>You can find me  🌍</p>
 
 <a href="https://github.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="acjoell" height="30" width="40" /></a>
 <a href="https://instagram.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acjoell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acjoell" height="30" width="40" /></a>
 <a href="https://twitter.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acjoell" height="30" width="40" /></a>
+
+<br>
+
+<a href="https://github.com/AcJoell/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
+</a>
