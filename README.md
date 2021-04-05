@@ -1,32 +1,20 @@
 <!--<img align="left" src="https://komarev.com/ghpvc/?username=AcJoell&label=Profile%20views&color=0e75b6&style=flat" alt="AcJoell" /> -->
 
 ### Hi, I´m Joel!👋 
-____________________________________________________________________________
-
-#### You can find me 🌍
-
-<a href="https://github.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="acjoell" height="30" width="40" /></a>
-<a href="https://instagram.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acjoell" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acjoell" height="30" width="40" /></a>
-<a href="https://twitter.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acjoell" height="30" width="40" /></a>
 
 __________________________________________________________________________
 
-#### Languages and Tools!
+<h2 align="center"> About me</h2>
 
-```js
-const AcJoell = {
-    technologies = [web, server],
-    code = [HTML, CSS, JS, JAVA, SQL]
- } 
-```
-__________________________________________________________________________
+<p>
+    
+</p>
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  . . .
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>-->
@@ -35,21 +23,29 @@ __________________________________________________________________________
 __________________________________________________________________________
 <br>
 <img align="right" src="https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&h=300&w=100%"/>
-<p align="left"> Me:
+<p align="left">
+    I am a SENA student, currently studying information systems technologies, with developed and oriented skills as a Front-end developer and solution builder using JAVA and         JDBC technologies.<br>
+    Passionate about teamwork and developing new skills.
+    <br><br>
+    Anything you don't learn is indistinguishable from magic - Kyle S.
+    <br><br>
 </p>
-<br><br><br><br><br>
-<br><br><br><br><br>
+
 <!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
--->
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AcJoell&show_icons=true&include_all_commits=true&theme=material-palenight" alt="AcJoell's github stats" />
 </a> 
 -->
+____________________________________________________________________________
 
+#### You can find me 🌍
+
+<a href="https://github.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="acjoell" height="30" width="40" /></a>
+<a href="https://instagram.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acjoell" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acjoell" height="30" width="40" /></a>
+<a href="https://twitter.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acjoell" height="30" width="40" /></a>
 ___________________________________________________________________________
 
 <a href="https://github.com/AcJoell/github-readme-stats">
