@@ -1,6 +1,7 @@
 <!--<img align="left" src="https://komarev.com/ghpvc/?username=AcJoell&label=Profile%20views&color=0e75b6&style=flat" alt="AcJoell" /> -->
+<div align="center"><img width="150px" src="https://media.giphy.com/media/l2R0aUFFfV8OIo4nu/giphy.gif" /></div>
 
-### Hi, I´m Joel!👋 
+### Hi, I´m Joel! 👋 👨‍💻 
 __________________________________________________________________________
 
 <h2 align="center">About me</h2>
@@ -24,9 +25,13 @@ __________________________________________________________________________
 <a href="https://twitter.com/acjoell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acjoell" height="30" width="40" /></a>
 
 <br>
-
+<!--
+<div align="left">
+ <img width="100px" src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" />
+</div>
+-->
 <a href="https://github.com/AcJoell/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcJoell&layout=compact&theme=material-palenight" />
 </a>
 
 <br>
