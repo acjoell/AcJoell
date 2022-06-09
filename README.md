@@ -1,10 +1,12 @@
 <!--<img align="left" src="https://komarev.com/ghpvc/?username=AcJoell&label=Profile%20views&color=0e75b6&style=flat" alt="AcJoell" /> -->
-<div align="center"><img width="50px" src="https://media.giphy.com/media/l2R0aUFFfV8OIo4nu/giphy.gif" /></div>
+<!-- <div align="center"><img width="20px" src="https://media.giphy.com/media/l2R0aUFFfV8OIo4nu/giphy.gif" /></div> -->
 
-### Hi, I´m Joel! 👋 👨‍💻 
-__________________________________________________________________________
+### __Hi, I'm Joel!__ 👋 👨‍💻
+___________________________________________________
 
-<h2 align="center">About me</h2>
+### About me
+
+<br>
 
 <p>
     My passion is coding, I like capture user interfaces in a solid architecture with clean and scalable code, applying good practices to deliver a good result.
@@ -13,12 +15,17 @@ __________________________________________________________________________
     <br><br>
     Motivated to get solid experience and knowledge at tech industry with developed and oriented skills as a <strong>Front-end developer</strong>.
     <br><br>
-    I enjoy teamwork and developing new skills. Self-taught, disciplined, analytical and proactive, in search of challenges
-    <br><br><br>
-    Anything you don't learn is indistinguishable from magic 🎩 <strong>- Kyle S.</strong>
+    I enjoy teamwork and developing new skills. Self-taught, disciplined, analytical and proactive, in search of challenges.
+    <br><br>
 </p>
 
-<br>
+___________________________________________________
+
+<p>
+    <br>
+    Anything you don't learn is indistinguishable from magic 🎩 <strong>- Kyle S.</strong>
+    <br><br>
+</p>
 
 __________________________________________________________________________
 
