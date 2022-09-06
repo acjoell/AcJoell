@@ -101,7 +101,7 @@
 <!-- Contact -->
 <details align='center'>
   <summary>
-    <img src='./assets/earth.gif' width='19pxpx'>
+    <img src='./assets/earth.gif' width='19px'>
     You can reach me on
   </summary>
   <samp>
