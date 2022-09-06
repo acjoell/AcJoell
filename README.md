@@ -1,6 +1,7 @@
 <!-- Header -->
 <div align='center'>
-  <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=676767&center=true&width=475&lines=Hello+There+%F0%9F%91%8B;I'm+Joel%2C+a+Tech+lover+%F0%9F%92%BB' alt='Typing SVG'>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=676767&center=true&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+Joel%2C+a+Tech+lover+%F0%9F%92%BB)](https://git.io/typing-svg)
   <br />
   <img src='./assets/adventureTime.gif' width='340' />
 </div>
