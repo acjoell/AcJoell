@@ -46,7 +46,7 @@
 <!-- Stack -->
 <details align='center'>
   <summary>
-    <img src='https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif' width='30px' alt='hi'>
+    <img src='https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif' width='20px' alt='hi'>
     Languages & Tools
   </summary>
   <samp>
